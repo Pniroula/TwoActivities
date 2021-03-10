@@ -1,3 +1,2 @@
-![Screenshot](Task2.png)
-VIDEO
-![GIF](secactivity.gif)
+![Screenshot](Task3.png)
+![Screenshot](Task3.1.png)
