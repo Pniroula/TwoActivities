@@ -1,3 +1,6 @@
+![Screenshot](Task1.png)
+![Screenshot](Task2.png)
+![Screenshot](Task3.png)
 ![Screenshot](Task4.png)
 Video
-![GIF](Task4.1.gif)
+![GIF](task4.1.gif)
